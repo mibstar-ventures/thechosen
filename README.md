@@ -1,8 +1,3 @@
-<style>
-table img {width: 240px;}
-th      {text-align:left; background-color:#78a9a5}
-th      {border:solid #78a9a5 1px;}
-</style>
 <p align="center"><img alt="The Chosen" src="assets/images/the_chosen_logo.jpg" height="auto" width="600"></p>
 
 # TV Series characters
