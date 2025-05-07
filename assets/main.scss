@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+$primary-color: #99e0dd;
+table {
+    img { width: 300px;}
+} 
+
+table th {
+    text-align:left; background-color: $primary-color;
+    border:solid $primary-color 1px;
+}
+
+h1 {font-size: 1.7em}
+h2 {font-size: 1.6em;}
+h3 {font-size: 1.4em;}
+h4 {font-size: 1.3em;}
+
+.page-content {padding-top:0;}
+
+thead {
+    position: sticky;
+    top: 0px;
+    background: $primary-color;
+  }

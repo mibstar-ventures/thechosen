@@ -1,7 +1,5 @@
 <p align="center"><img alt="The Chosen" src="assets/images/the_chosen_logo.jpg" height="auto" width="600"></p>
 
-# TV Series characters
-
 The Chosen [www.thechosen.tv](https://www.thechosen.tv) is a historical drama which was first released in 2017 and is now in Season 5 of the series. 
 
 As is with many cases, media can have a strong influence in our understanding and even beliefs. Wether that be Charlton Heston gaining stardom in Moses in 1956 and how we may relate to the character and storyline or a recent interpretation of Noah by Russel Crowe. 
@@ -19,8 +17,8 @@ The purpose of this project is to help us manage that and the initial and over-a
 | Fan | to document the characters, stories and facts | I can distinguish historical facts from artistic license |
 | Critical Thinker / Questioner | evaluate my own or inherited beliefs | I ican deepen or come up with my own personal beliefs |
 
-# Characters
-## The 12 Disciples of Jesus
+## Characters
+### The 12 Disciples of Jesus
 
 | Photo | Names & Relationships | Notes | Approx. Order of Following Jesus |
 | :--: | ------------- | ----- | :--: |
@@ -37,7 +35,7 @@ The purpose of this project is to help us manage that and the initial and over-a
 | ![Simon](assets/characters/Simon_Z.webp) | **Simon** <br> (The Zealot)| Mentioned in the lists of disciples but has no specific call narrative. | 11 | 
 | ![Judas Iscariot](assets/characters/Judas_Iscariot.webp) | **Judas Iscariot** |The disciple who betrayed Jesus. | 12 |
 
-## Biblical Characters
+### Biblical Characters
 
 | Photo | Names & Relationships | Notes | 
 | :--: | ------------- | ----- |
@@ -45,7 +43,7 @@ The purpose of this project is to help us manage that and the initial and over-a
 | ![Mary](assets/characters/Mary.webp)  | **Mary** <br><br> Mother of Jesus  | Mother of Thaddaeus Judas, Joses, Simon, Jude & James (The Just) |
 | ![Mary Magdalene](assets/characters/Mary_Magdalene.webp)  | **Mary Magdalene** | A redeemed formerly demon-possessed woman from Magdala and one of the women helping Jesus's ministry. |
 
-## Non-Biblical Characters
+### Non-Biblical Characters
 
 Characters from the series which are not mentioned in the Bible.
 
@@ -55,10 +53,11 @@ Characters from the series which are not mentioned in the Bible.
 | ![Ramah](assets/characters/Ramah.webp)  | **Ramah** <br><br> Betrothed to Thomas  | The daughter of Dasha, and one of the women helping Jesus's ministry.  |
 | ![Tamar](assets/characters/Tamar.webp)  | **Tamar** | An Ethiopian friend of Ethan, the healed paralytic in Capernaum, from Heliopolis, and one of the women helping Jesus's ministry. |
 
+---
 
 ## Open Source Repository
 
-This website is generated from the [thechosen-characters/thechosen-characters](https://github.com/thechosen-characters/thechosen-characters) GitHub repository.
+This website is generated from the [mibstar-ventures/thechosen](https://github.com/mibstar-ventures/thechosen) GitHub repository.
 
 ## Creators
 
