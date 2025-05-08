@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 $primary-color: #99e0dd;
 table {
-    img { width: 300px;}
+    td:nth-of-type(3) { width: 240px; }
 } 
 
 table th {
@@ -12,8 +12,8 @@ table th {
     border:solid $primary-color 1px;
 }
 
-h1 {font-size: 1.7em}
-h2 {font-size: 1.6em;}
+h1 {font-size: 1.7em; text-align:center; background-color: black; color:$primary-color;}
+h2 {font-size: 1.6em; border-bottom: 2px solid $primary-color; margin-top:1em; }
 h3 {font-size: 1.4em;}
 h4 {font-size: 1.3em;}
 
@@ -24,3 +24,7 @@ thead {
     top: 0px;
     background: $primary-color;
   }
+
+  .wrapper {
+    max-width: calc(900px - (30px * 2));
+}
