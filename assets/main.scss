@@ -28,3 +28,13 @@ thead {
   .wrapper {
     max-width: calc(900px - (30px * 2));
 }
+
+.site-header {
+    border-bottom: 0;
+}
+
+.site-title {
+    font-size: 1.7em;
+    color:$primary-color;
+    margin-bottom:1rem;
+}    

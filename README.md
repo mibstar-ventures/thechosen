@@ -66,7 +66,7 @@ To achieve this, we have set the following overarching objectives:
 
 | Names & Relationships | Notes | Photo |
 | --------------------- | ----- | :---: |
-| **John** <br>(The Baptist) <br><br> Son of Elizabeth & Zechariah | Cousin of Jesus. | ![John](assets/characters/John_The_Baptist.webp)<img src="assets/images/pix.gif" width="600" height="1"> |
+| **John** <br>(The Baptist) <br><br> Son of Elizabeth & Zechariah | Cousin of Jesus. | ![John](assets/characters/John_The_Baptist.webp) |
 | **Mary** <br><br> Mother of Jesus | Mother of Thaddaeus Judas, Joses, Simon, Jude & James (The Just). | ![Mary](assets/characters/Mary.webp) |
 | **Mary Magdalene** | A redeemed formerly demon-possessed woman from Magdala and one of the women helping Jesus's ministry. | ![Mary Magdalene](assets/characters/Mary_Magdalene.webp) |
 | **Nicodemus** | Leading Pharisee from Jerusalem, a respected rabbi, and a high-ranking member of the Sanhedrin. He is a secret disciple of Jesus. | ![Nicodemus](assets/characters/Nicodemus.webp) |
@@ -80,7 +80,7 @@ Characters from the series which are not mentioned in the Bible.
 
 | Names & Relationships | Notes | Photo |
 | --------------------- | ----- | :---: |
-| **Eden** <br><br> Wife of Peter (Simon) | One of the women helping Jesus's ministry. | ![Eden](assets/characters/Eden.webp)<img src="assets/images/pix.gif" width="300" height="1"> |
+| **Eden** <br><br> Wife of Peter (Simon) | One of the women helping Jesus's ministry. | ![Eden](assets/characters/Eden.webp) |
 | **Ramah** <br><br> Betrothed to Thomas | The daughter of Dasha, and one of the women helping Jesus's ministry. | ![Ramah](assets/characters/Ramah.webp) |
 | **Tamar** | An Ethiopian friend of Ethan, the healed paralytic in Capernaum, from Heliopolis, and one of the women helping Jesus's ministry. | ![Tamar](assets/characters/Tamar.webp) |
 | **Atticus** | One of the Roman cohortes urbanae sent from Rome to investigate the Zealots and then Jesus. |  ![Atticus](assets/characters/Atticus.webp) |
