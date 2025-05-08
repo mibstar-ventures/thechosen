@@ -33,8 +33,7 @@ To achieve this, we have set the following overarching objectives:
 
 ## Cheat Sheet
 
-[![Cheat Sheet (small)]({{ "cheat-sheet/image.png" | resize: "900x900>" }})](cheat-sheet/image.png)
-
+[![Cheat Sheet (small)](cheat-sheet/image-900px.png)](cheat-sheet/image.png)
 **Other formats:**
 
  * [PDF 24Mb](cheat-sheet/PDF.pdf)
