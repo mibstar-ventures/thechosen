@@ -3,18 +3,24 @@
 
 @import "{{ site.theme }}";
 $primary-color: #99e0dd;
-table {
-    td:nth-of-type(3) { width: 240px; }
-} 
+$table-even-row-bgcolor: #f0f0f0;
 
-table th {
+table {
+  td:nth-of-type(2) { padding: 0;}
+  
+  th {
     text-align:left; background-color: $primary-color;
     border:solid $primary-color 1px;
+  }
+  tr:nth-child(even) {
+    background-color: $table-even-row-bgcolor;
+  }
 }
+
 
 h1 {font-size: 1.7em;}
 h2 {font-size: 1.6em; border-bottom: 2px solid $primary-color; margin-top:1em; }
-h3 {font-size: 1.4em;}
+h3 {font-size: 1.4em; margin-top:0.65em;}
 h4 {font-size: 1.3em;}
 
 .page-content {padding-top:0;}
@@ -39,11 +45,7 @@ thead {
     margin-bottom:1rem;
 }    
 
-
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
-body {
-  font-family: "Open Sans", sans-serif;
-}
+/* responsive tables */
 table {
   border: 1px solid #ccc;
   border-collapse: collapse;
@@ -53,20 +55,22 @@ table {
 }
 table tr {
   border: 1px solid #ddd;
-  padding: 5px;
+  padding: 0px;
 }
-table th, table td {
+table th {
   padding: 10px;
   text-align: center;
 }
 table th {
-  font-size: 14px;
+  //font-size: 14px;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   table {
     border: 0;
+    td:nth-of-type(2) { border-width: 0 1px; padding: 0; }
+    td:nth-of-type(3) { border-width: 0 1px; }
   }
   table thead {
     display: none;
@@ -74,13 +78,17 @@ table th {
   table tr {
     border-bottom: 2px solid #ddd;
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 1em;
   }
   table td {
     border-bottom: 1px dotted #ccc;
     display: block;
-    font-size: 13px;
-    text-align: right;
+    //font-size: 13px;
+    text-align: center;
+  
+  }
+  table td:first-child {
+    background-color: $primary-color;
   }
   table td:last-child {
     border-bottom: 0;
@@ -90,5 +98,7 @@ table th {
     float: left;
     font-weight: bold;
     text-transform: uppercase;
+    text-align: center;
+    width: 18%
   }
 }

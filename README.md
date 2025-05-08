@@ -14,14 +14,38 @@ We hope this becomes a place where we can separate biblical text from creative l
 
 To achieve this, we have set the following overarching objectives:
 
-| As s  | I want | So that | 
-| :---: | ------ | ------- |
-| Watcher | to know what is biblically based | I can separate bible based from artistic license |
-| Watcher | to read or study the stories from their sources | I gain my own understanding or interpretation |
-| Visual learner | to have a cheat sheet or reference material | I can connect my existing knowledge to the story being presented |
-| Fan | to use the series as a modern teaching material | others may learn |
-| Fan | to document the characters, stories and facts | I can distinguish historical facts from artistic license |
-| Critical Thinker / Questioner | evaluate my own or inherited beliefs | I can deepen or come up with my own personal beliefs |
+
+<table><thead><tr>
+  <th>As A</th>
+  <th>I want</th>
+  <th>So that</th>
+</tr></thead>
+<tbody><tr>
+  <td data-label="As A "   > Watcher</td>
+  <td data-label="I want " > to know what is biblically based</td>
+  <td data-label="So that "> I can separate bible based from artistic license</td>
+</tr><tr>
+  <td data-label="As A "   >Watcher</td>
+  <td data-label="I want" >to read or study the stories from their sources</td>
+  <td data-label="So that">I gain my own understanding or interpretation</td>
+</tr><tr>
+  <td data-label="As A"   >Visual Learner</td>
+  <td data-label="I want" >to have a cheat sheet or reference material</td>
+  <td data-label="So that">I can connect my existing knowledge to the story being presented</td>
+</tr><tr>
+  <td data-label="As A "   >Fan</td>
+  <td data-label="I want " >to use the series as a modern teaching material</td>
+  <td data-label="So that ">others may learn</td>
+</tr><tr>
+  <td data-label="As A "   >Fan</td>
+  <td data-label="I want " >to document the characters, stories and facts</td>
+  <td data-label="So that ">I can distinguish historical facts from artistic license</td>
+</tr><tr>
+  <td data-label="As A "   >Critical Thinker / Questioner</td>
+  <td data-label="I want " >evaluate my own or inherited beliefs</td>
+  <td data-label="So that ">I can deepen or come up with my own personal beliefs</td>
+</tr></tbody></table>
+
 
 ## Table of Contents
 
