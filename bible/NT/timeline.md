@@ -1,12 +1,6 @@
 {% include mermaid.html %}
 # NT Timeline
-```mermaid
----
-config:
-  logLevel: 'debug'
-  theme: 'forest'
-  look: 'handDrawn'
----
+<pre class="mermaid">
 timeline
     title Date or range of dates (CE) most widely held by scholas for the New Testament books
     section 48 - 55 CE
@@ -45,4 +39,4 @@ timeline
         110 : 📖 2nd Peter <br> ✍🏼 Pseudepigraphical 
     section Uncertain
         Uncertain : 📖 Jude
-```
+</pre>
