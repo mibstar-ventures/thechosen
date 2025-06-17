@@ -9,7 +9,7 @@ Ordered by the aproximate order in which they followed Jesus.
 | **Peter** (Simon) | [![Peter](images/360/Simon_Peter.png)](images/Simon_Peter.webp) | One of the first disciples called. | Brother of **Andrew**. <br> Son of Jonah | 2 |
 | **John** (The Apostle) | [![John](images/360/John.png)](images/John.webp) | Part of the inner circle of disciples. | Brother of (Big) **James** | 3 |
 | (Big) **James** | [![Big James](images/360/Big_James.png)](images/Big_James.webp) | Part of the inner circle of disciples. | Brother of **John** (The Apostle) | 4 |
-| **Philip** | [![Philip](images/360/Philip.png)](images/Philip.webp) | From Bethsaida, brought Nathanael to Jesus. |  | 5 |
+| **Philip** | [![Philip](images/360/Philip.png)](images/Philip.webp) | From Bethsaida, brought **Nathanael** to Jesus. |  | 5 |
 | **Nathanael** (Bartholomew) | [![Nathanael](images/360/Nathanael.png)](images/Nathanael.webp) | Brought to Jesus by **Philip**. |  | 6 |
 | **Matthew** (Levi) | [![Matthew](images/360/Matthew.png)](images/Matthew.webp) | Tax collector before being called by Jesus. |  | 7 |
 | **Thomas** | [![Thomas](images/360/Thomas.png)](images/Thomas.webp) | Often referred to as _"Doubting Thomas"_. |  | 8 |
