@@ -40,3 +40,19 @@ timeline
     section Uncertain
         Uncertain : 📖 Jude
 </pre>
+
+
+<pre class="mermaid">
+timeline
+    title 48 - 55 CE
+    section 48 or 55 
+        : 📖 Galatians ✍🏼 Pauline (indisputably)
+    section 51  
+        : 📖 1 Thessalonians ✍🏼Pauline
+        : 📖 2 Thessalonians (or post 70 CE) 
+    section 53 - 57 
+        : 📖 1 Corinthians ✍🏼 Pauline (indisputably)
+    section 54 - 55 
+        : 📖 Philippians ✍🏼 Pauline
+        : 📖 Philemon ✍🏼 Pauline
+</pre>
