@@ -4,7 +4,7 @@
 timeline
     title Date or range of dates (CE) most widely held by scholas for the New Testament books
     section 48 - 55 CE
-        48 or 55 : 📖 Galatians &lt;br&gt; ✍🏼 Pauline (indisputably)
+        48 or 55 : 📖 Galatians \n ✍🏼 Pauline (indisputably)
         51  : 📖 1 Thessalonians <br> ✍🏼Pauline
         : 📖 2 Thessalonians <br> (or post 70 CE) 
         53 - 57 : 📖 1 Corinthians <br> ✍🏼 Pauline (indisputably)
