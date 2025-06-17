@@ -1,4 +1,5 @@
-# Timeline of New Testament books authorship
+{% include mermaid.html %}
+# NT Timeline
 ```mermaid
 ---
 config:
