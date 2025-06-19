@@ -57,11 +57,15 @@
 
 📌 **Key Notes:**
 
-* ✔️ In LXX?: Indicates whether the book is present in the Greek Septuagint, often in expanded or alternate form.
-* Hebrew Bible groups books like 1–2 Samuel, 1–2 Kings, and the Twelve Minor Prophets as single units.
+* ✔️ In **LXX**?: Indicates whether the book is present in the **Greek Septuagint**, often in expanded or alternate form.
+
+* **Hebrew Bible** groups books like 1–2 Samuel, 1–2 Kings, and the Twelve Minor Prophets as single units.
+
 * The order columns show canonical structure and reading priority in each tradition.
-* The Catholic OT includes Deuterocanonical books from the LXX; Protestants reject these as apocryphal.
-* The Eastern Orthodox canon varies slightly (e.g. Russian vs Greek Orthodox), but this list reflects the broader consensus.
+
+* The **Catholic OT** includes Deuterocanonical books from the LXX; Protestants reject these as **apocryphal**.
+
+* The **Eastern Orthodox** canon varies slightly (e.g. **Russian** vs **Greek Orthodox**), but this list reflects the broader consensus.
 
 ### OT Timelines
 
@@ -178,8 +182,11 @@ gantt
  * While the Book of Revelation is part of the New Testament canon across nearly all Christian traditions, it has historically had limited liturgical use in some Eastern Orthodox Churches, particularly the Greek Orthodox Church. It was not read publicly in the liturgy for centuries, though it was still accepted as canonical.
 
 * **Traditional authorship** is based on early Christian testimony (e.g. Church Fathers like Irenaeus, Origen).
+
 * **Scholarly views** reflect modern critical methods, including language, theology, and historical context.
+
 * Letters marked as **pseudonymous** are thought by many scholars to have been written in Paul's name by later followers, a common literary practice in antiquity.
+
 * The identity of John in the Gospel, Epistles, and Revelation is especially complex and debated.
 
 ### NT Timeline
@@ -190,8 +197,8 @@ gantt
     title       Authorship Composition of New Testament Bible books
     axisFormat  %Y
 
-    section Jesus' Ministry
-        Jesus                           :active, 0028, 3y
+    section 
+        Jesus' Ministry                 :active, 0028, 3y
 
     section ✍🏼 Pauline 
         Galatians (or 55 CE)            :g1, 48, 1y
