@@ -1,5 +1,6 @@
 # Bible
 ## Old Testament (OT) Canon
+
 | Book Name                 | Hebrew Bible Order | Protestant OT Order | Catholic OT Order | Orthodox OT Order | In LXX? | Original Language(s)         |
 |---------------------------|:------------------:|:-------------------:|:-----------------:|:-----------------:|:-------:|------------------------------|
 | Genesis                   | 1 (Torah)          | 1 (Pentateuch)      | 1 (Pentateuch)    | 1 (Law)           | ✔️      | Hebrew                       |
@@ -71,13 +72,13 @@ gantt
     axisFormat %Y
         
     section Old Testament
-        Genesis (First book) : milestone, -000500, 0y
-        Torah / Pentateuch (Genesis, Exodus, Leviticus, Nummbers & Deuteronomy)  : -000700, 368y
-        Historical Books (Jehsua, Judges, Ruth, Samuel, Kings, Chronicales, Ezra, Nehemiah & Esther) : -000800, 500y
-        Wisdom books (Job, Psalms, Proverbs, Ecclesiastes & Song of Songs) : -001000, 750y  
-        Major Prophets (Isaiah, Jeremiah, Lamentations, Ezekiel & Daniel) : -000740, 260y
-        Minor Prophets (Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah & Malachi) : -000640, 440y
-        Malachi (Last book) : milestone, -000460, 30y
+        Genesis (First book)    : milestone, -000500, 0y
+        Torah / Pentateuch      : -000700, 368y
+        Historical Books        : -000800, 500y
+        Wisdom books            : -001000, 750y  
+        Major Prophets          : -000740, 260y
+        Minor Prophets          : -000640, 440y
+        Malachi (Last book)     : milestone, -000460, 30y
 </pre>
 
 <pre class="mermaid">
@@ -182,7 +183,7 @@ gantt
 * The identity of John in the Gospel, Epistles, and Revelation is especially complex and debated.
 
 ### NT Timeline
-<pre>
+<pre class="mermaid">
 gantt 
 
     dateFormat  YYYY-MM-DD
