@@ -1,10 +1,10 @@
 ## Bible
 
 ## Table of Contents
- * [**Old Testament (OT) Canon**](bible/#old-testament-ot-canon)
-   * [OT Timelines](bible/#ot-timelines)
-* [**Net Testament (NT) Canon**](bible/#new-testament-nt-books)
-   * [NT Timeline](bible/#ot-timeline)
+ * [**Old Testament (OT) Canon**](#old-testament-ot-canon)
+   * [OT Timelines](#ot-timelines)
+* [**Net Testament (NT) Canon**](#new-testament-nt-books)
+   * [NT Timeline](#nt-timeline)
  
 
 ### Old Testament (OT) Canon
