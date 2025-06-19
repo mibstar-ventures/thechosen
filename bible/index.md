@@ -1,5 +1,13 @@
-# Bible
-## Old Testament (OT) Canon
+## Bible
+
+## Table of Contents
+ * [**Old Testament (OT) Canon**](bible/#old-testament-ot-canon)
+   * [OT Timelines](bible/#ot-timelines)
+* [**Net Testament (NT) Canon**](bible/#new-testament-nt-books)
+   * [NT Timeline](bible/#ot-timeline)
+ 
+
+### Old Testament (OT) Canon
 
 | Book Name                 | Hebrew Bible Order | Protestant OT Order | Catholic OT Order | Orthodox OT Order | In LXX? | Original Language(s)         |
 |---------------------------|:------------------:|:-------------------:|:-----------------:|:-----------------:|:-------:|------------------------------|
@@ -67,7 +75,7 @@
 
 * The **Eastern Orthodox** canon varies slightly (e.g. **Russian** vs **Greek Orthodox**), but this list reflects the broader consensus.
 
-### OT Timelines
+#### OT Timelines
 
 <pre class="mermaid">
 gantt
@@ -145,7 +153,7 @@ gantt
         Malachi         : -000460, 30y
 </pre>
 
-## New Testament (NT) books
+### New Testament (NT) books
 
 | #  | Book Name               | Traditional Author           | Scholarly View                        |
 |:--:|-------------------------|------------------------------|---------------------------------------|
@@ -189,7 +197,7 @@ gantt
 
 * The identity of John in the Gospel, Epistles, and Revelation is especially complex and debated.
 
-### NT Timeline
+#### NT Timeline
 <pre class="mermaid">
 gantt 
 

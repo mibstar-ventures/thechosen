@@ -54,6 +54,7 @@ To achieve this, we have set the following overarching objectives:
    * [The 12 Disciples](characters/#the-12-disciples-of-jesus)
    * [Biblical Characters](characters/#biblical-characters)
    * [Non-Biblical Characters](characters/#non-biblical-characters)
+* [**The Bible**](bible/)
 
 ## Cheat Sheet
 
