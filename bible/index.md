@@ -197,8 +197,8 @@ gantt
     title       Authorship Composition of New Testament Bible books
     axisFormat  %Y
 
-    section 
-        Jesus' Ministry                 :active, 0028, 3y
+    section Jesus' Ministry
+        Jesus                           :active, 0028, 3y
 
     section ✍🏼 Pauline 
         Galatians (or 55 CE)            :g1, 48, 1y
